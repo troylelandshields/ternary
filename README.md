@@ -1,8 +1,9 @@
 # Ternary
 
+> 
 > Don't write 4 lines of code when 1 will do.
-
-_-- Not a Go proverb_
+> 
+> -- Not a Go proverb
 
 This completely useless package uses Go's new generics to add a ternary operator style syntax to Go! You know there have been at least a handful of times where you've quit your working day early because you just could not write one more `if` statement. Well now you don't have to, feel free to replace all of your `if` statements with this the beautiful and not-confusing-at-all syntax provided by `ternary`.
 
