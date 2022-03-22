@@ -2,6 +2,8 @@
 
 This completely useless package uses Go's new generics to add a ternary operator style syntax to Go! You know there have been at least a handful of times where you've quit your working day early because you just could not write one more `if` statement. Well now you don't have to, feel free to replace all of your `if` statements with this the beautiful and not-confusing-at-all syntax provided by `ternary`.
 
+_Because this requires Generics, you must be using go 1.18._
+
 ## Installation
 
 `go get github.com/troylelandshields/ternary`
